@@ -1,0 +1,66 @@
+{
+  "initialTodos": [
+    {
+      "id": "d38e4ca6-4f67-44d0-97aa-9f83091f468a",
+      "title": "Walk the Dog",
+      "priority": 0,
+      "completed": false
+    },
+    {
+      "id": "444d197c-c59b-4941-b82a-1c8ef59728c3",
+      "title": "Feed the Fish",
+      "priority": 1,
+      "completed": false
+    },
+    {
+      "id": "055c731f-b5b1-4cd9-8457-8324a33face7",
+      "title": "Water the Plants",
+      "priority": 2,
+      "completed": false
+    },
+    {
+      "id": "9994ceb1-af9c-461d-b1b3-124ba9f2a19b",
+      "title": "Wash the car",
+      "priority": 3,
+      "completed": false
+    },
+    {
+      "id": "a6de5cac-4ab9-4a3a-9ce5-01e8341f8fb1",
+      "title": "Cut the grass",
+      "priority": 4,
+      "completed": false
+    }
+  ],
+  "priorityStatus":  [
+  {
+    "value": 0,
+    "label": "Lowest"
+  },
+  {
+    "value": 1,
+    "label": "Low"
+  },
+  {
+    "value": 2,
+    "label": "Medium"
+  },
+  {
+    "value": 3,
+    "label": "High"
+  },
+  {
+    "value": 4,
+    "label": "Highest"
+  }],
+  "defaultItem" : {
+    "id": 1,
+    "title": "",
+    "priority": 0,
+    "completed": false
+  },
+  "sortedBy": {
+    "name": "title",
+    "priority": "priority",
+    "completed": "completed"
+  }
+}
